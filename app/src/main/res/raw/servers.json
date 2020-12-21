@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Production",
+    "url": "https://samystudio.github.io/Beaver/api/",
+    "defaultForBuildType": "release"
+  },
+  {
+    "title": "Test",
+    "url": "https://samystudio.github.io/Beaver/api/",
+    "defaultForBuildType": "debug"
+  }
+]
